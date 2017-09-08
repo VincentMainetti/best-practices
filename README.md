@@ -1,8 +1,8 @@
-**Best Practices**
+## **Best Practices**
 
 This is a general list of how to's for markup
 
-**Naming Things** (Conventions)
+### **Naming Things** (Conventions)
 
 - use lowercase (one language) for nameing files, folders, and markup
 
