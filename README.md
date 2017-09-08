@@ -2,7 +2,7 @@
 
 This is a general list of how to's for markup
 
----
+- - -
 
 ### **Naming Things** (Conventions)
 
@@ -10,7 +10,7 @@ This is a general list of how to's for markup
 
 2. use a hyphen **(-)** of an underscore **(_)** and not a space **( )** whe seperating phrases (words) in nameing files, folders, and markup.
 
----
+- - -
 
 ### Project (Folder, Repo) Structure
 
